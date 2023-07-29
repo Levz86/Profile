@@ -33,7 +33,7 @@
     <h2> Skills and Competencies</h2> 
     <ul>
         <li>SAVC reg. T08/6867</li>
-        <li>MS Windows</li>
+        <li>MS Windows(Excel, Word, Powerpoint) </li>
         <li>Cooking and Baking </li>
         <li>Organising</li>
     </ul>
